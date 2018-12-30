@@ -33,12 +33,16 @@ Model
 
 ### Deep Neural Network
 
--	총 5개의 레이어로 구성 ![NN_Model](./Image/NN_Model.png)
+-	총 5개의 레이어로 구성
+
+![NN_Model](./Image/NN_Model.png)
 
 ### Convolutional Neural Network
 
 -	2개의 convolution layer, 3개의 fully connected layer 구성
--	convolution 뒤에 Batch Normalization 진행 ![CNN_Model](./Image/CNN_Model.png)
+-	convolution 뒤에 Batch Normalization 진행
+
+![CNN_Model](./Image/CNN_Model.png)
 
 Result
 ------
